@@ -1,3 +1,5 @@
-# Alchemy Code Lab Bootcamp II : Daily Code Wars 
 
- _Daily Code Wars challenges completed as a requirement of Botcamp II._ 
+# codewars
+## Alchemy Code Lab Bootcamp Part 2: 
+
+_Code Wars daily challenge repository for assignment submissions_
