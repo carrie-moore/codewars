@@ -12,5 +12,5 @@ function insertDash(num) {
     }
   }
   
-  return dashed; 
+  return dash; 
 }
